@@ -1,8 +1,9 @@
 # 1806-20_polarization
 
-Files involving polarization for SGR 1806-20 hyperflare.
-
+Files involving polarization for SGR 1806-20 hyperflare.  
 All files are commented with descriptions for each block of lines.
+
+IMPORTANT: RHESSI.dat is not in here, a it's too big (Github has a 25MB limit).  You'll need to put a copy of it in the directory in order to run most of the code.
 
 ----------------------------------------------------------------------------------------------------------------
 
