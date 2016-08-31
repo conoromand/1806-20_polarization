@@ -1,7 +1,8 @@
 # 1806-20_polarization
 
-Files involving polarization for SGR 1806-20 hyperflare
-All files are commented with descriptions for each block of lines
+Files involving polarization for SGR 1806-20 hyperflare.
+
+All files are commented with descriptions for each block of lines.
 
 ----------------------------------------------------------------------------------------------------------------
 
