@@ -6,32 +6,32 @@ All files are commented with descriptions for each block of lines.
 
 ----------------------------------------------------------------------------------------------------------------
 
-fftfitrhessi.py: FT the RHESSI data by hand and solving for positions and differences of maxima in different detectors
-Input - RHESSI.dat
-Output - fftfitpars.dat, fftfitdifpars.dat (not included in github, not incredibly useful)
+fftfitrhessi.py: FT the RHESSI data by hand and solving for positions and differences of maxima in different detectors.  
+Input - RHESSI.dat.  
+Output - fftfitpars.dat, fftfitdifpars.dat (not included in github, not incredibly useful).
 
-fftfitsample.py: FT the hand-generated data by hand and solving for positions and differences of maxima in different detectors
-Input - tsample___.dat
-Output - fftfitsamplepars.dat, fftfitsampledifpars.dat (not included in github, not incredibly useful)
+fftfitsample.py: FT the hand-generated data by hand and solving for positions and differences of maxima in different detectors.  
+Input - tsample___.dat.  
+Output - fftfitsamplepars.dat, fftfitsampledifpars.dat (not included in github, not incredibly useful).
 
-fftrhessi.py: FT the RHESSI data by hand and create plots out of it
-Input - RHESSI.dat
-Output - fft_power_peaks_rhessi_5.png (not saved automatically), other plots
+fftrhessi.py: FT the RHESSI data by hand and create plots out of it.  
+Input - RHESSI.dat.  
+Output - fft_power_peaks_rhessi_5.png (not saved automatically), other plots.  
 
-fftsample.py: FT the hand-generated data by hand and create plots out of it
-Input - tsample___.dat
-Output - fft_power_peaks_sample####.png (none saved automatically), other plots
+fftsample.py: FT the hand-generated data by hand and create plots out of it.  
+Input - tsample___.dat.  
+Output - fft_power_peaks_sample####.png (none saved automatically), other plots.  
 
-rhessi_2pol.py: Calculates parameters for fits for data phased on other time intervals
-Input - RHESSI.dat
-Output - all other fitpars___.dat files
+rhessi_2pol.py: Calculates parameters for fits for data phased on other time intervals.  
+Input - RHESSI.dat.  
+Output - all other fitpars___.dat files.
 
-rhessi_polkui.py: Getting the parameters for the data phased on the satellite rotation period
-Input - RHESSI.dat
-Output - fitparsfsat.dat
+rhessi_polkui.py: Getting the parameters for the data phased on the satellite rotation period.  
+Input - RHESSI.dat.  
+Output - fitparsfsat.dat.  
 
-sample_rhessi2.py: Generate sample data based on fits to the detectors
-Input - RHESSI.dat, fitparsfsat.dat, fitpars2fsat.dat
+sample_rhessi2.py: Generate sample data based on fits to the detectors.  
+Input - RHESSI.dat, fitparsfsat.dat, fitpars2fsat.dat.  
 Output - tsample___.dat
 
 ----------------------------------------------------------------------------------------------------------------
